@@ -1,7 +1,5 @@
 github.com/BurntSushi/toml v1.2.1 h1:9F2/+DoOYIOksmaJFPw1tGFy1eDnIJXg+UHjuD8lTak=
 github.com/BurntSushi/toml v1.2.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
-github.com/cloudbase/garm-provider-common v0.1.1 h1:9SbkEevpycI/P3J7jEmjJf6VzdrxAIHkLppnjqaKAWU=
-github.com/cloudbase/garm-provider-common v0.1.1/go.mod h1:igxJRT3OlykERYc6ssdRQXcb+BCaeSfnucg6I0OSoDc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -20,6 +18,8 @@ github.com/gorilla/handlers v1.5.1/go.mod h1:t8XrUpc4KVXb7HGyJ4/cEnwQiaxrX/hz1Zv
 github.com/hashicorp/go-uuid v1.0.3/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
 github.com/mattn/go-isatty v0.0.19 h1:JITubQf0MOLdlGRuRq+jtsDlekdYPia9ZFsB8h/APPA=
 github.com/mattn/go-isatty v0.0.19/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
+github.com/mercedes-benz/garm-provider-common v0.0.0-20240521051413-b658eb8b8358 h1:ZN1gsY2NBypn6CHTpT16lishI+kySfw5nhIVMpcfBc4=
+github.com/mercedes-benz/garm-provider-common v0.0.0-20240521051413-b658eb8b8358/go.mod h1:igxJRT3OlykERYc6ssdRQXcb+BCaeSfnucg6I0OSoDc=
 github.com/minio/sio v0.3.1 h1:d59r5RTHb1OsQaSl1EaTWurzMMDRLA5fgNmjzD4eVu4=
 github.com/minio/sio v0.3.1/go.mod h1:S0ovgVgc+sTlQyhiXA1ppBLv7REM7TYi5yyq2qL/Y6o=
 github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=

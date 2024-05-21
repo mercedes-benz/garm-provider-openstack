@@ -35,3 +35,5 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/cloudbase/garm-provider-common v0.1.1 => github.com/mercedes-benz/garm-provider-common v0.0.0-20240521051413-b658eb8b8358
